@@ -1,1 +1,1 @@
-
+A collection of utility and toy functions in Python for practicing common programming tasks. This repository includes functions for checking palindromes, finding prime numbers, sorting tasks by priority, removing duplicates, handling CSV files, and more. It also features a simple hangman game using a REST API to fetch random words. Ideal for beginners learning Python or developers looking for lightweight utility functions for string manipulation, list processing, and basic game logic.
